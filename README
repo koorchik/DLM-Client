@@ -23,9 +23,7 @@ To install this module type the following:
 
 DEPENDENCIES
 
-This module requires these other modules and libraries:
-
-  blah blah blah
+You should configure DLM cluster before using this module.
 
 COPYRIGHT AND LICENCE
 
